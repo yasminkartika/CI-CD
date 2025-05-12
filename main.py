@@ -17,3 +17,4 @@ if __name__ == "__main__":
     print("5 - 3 =", kurang(5, 3))
     print("5 * 3 =", kali(5, 3))
     print("5 / 0 =", bagi(5, 0))
+# A
